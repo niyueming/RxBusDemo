@@ -1,0 +1,3 @@
+[submodule "rxbusLibrary"]
+	path = rxbusLibrary
+	url = https://niyueming@github.com/niyueming/rxbusLibrary.git
